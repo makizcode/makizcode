@@ -33,8 +33,6 @@ Fullstack-разработчик с страстью к созданию эле�
 
 <div align="center">
 
-**Frontend**
-<br>
 ![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=cccccc)
 ![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=cccccc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=cccccc)
@@ -44,15 +42,11 @@ Fullstack-разработчик с страстью к созданию эле�
 ![Vue.js](https://img.shields.io/badge/Vue.js-2d2d2d?style=for-the-badge&logo=vuedotjs&logoColor=cccccc)
 ![Tailwind](https://img.shields.io/badge/Tailwind-2d2d2d?style=for-the-badge&logo=tailwind-css&logoColor=cccccc)
 
-**Backend & Базы данных**
-<br>
 ![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=node.js&logoColor=cccccc)
 ![PHP](https://img.shields.io/badge/PHP-2d2d2d?style=for-the-badge&logo=php&logoColor=cccccc)
 ![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=cccccc)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=for-the-badge&logo=mongodb&logoColor=cccccc)
 
-**Дополнительно**
-<br>
 ![Figma](https://img.shields.io/badge/Figma-2d2d2d?style=for-the-badge&logo=figma&logoColor=cccccc)
 ![C#](https://img.shields.io/badge/C%23-2d2d2d?style=for-the-badge&logo=csharp&logoColor=cccccc)
 ![Flutter](https://img.shields.io/badge/Flutter-2d2d2d?style=for-the-badge&logo=flutter&logoColor=cccccc)
