@@ -1,28 +1,27 @@
 <div align="center">
   
-  <!-- Твое фото (круглое, в серой рамке) -->
   <img src="assets/your-photo.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #555; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="Reza Mehdikhanlou">
   
   <br>
   
-  <!-- Минималистичное приветствие -->
+
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Reza+Mehdikhanlou;Fullstack+Developer;Content+Creator" alt="Typing SVG" />
   </h1>
   
-  <!-- Серая разделительная линия -->
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="30%">
   
 </div>
 
-# ✨ Обо мне
+# Обо мне
 
 Fullstack-разработчик с страстью к созданию элегантных веб-приложений.  
 На своем <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube-канале</a> я делюсь знаниями и помогаю другим освоить современную веб-разработку.
 
 <div align="center">
   
-  ### 🎯 Чем я занимаюсь
+  ### Чем я занимаюсь
   
   `Fullstack разработка` • `Создание контента` • `Изучение нового`
   
@@ -81,7 +80,7 @@ Fullstack-разработчик с страстью к созданию эле�
 <!-- Контакты в сером стиле -->
 <div align="center">
   
-  ### 📬 Связаться со мной
+  ### Связаться со мной
   
   <a href="https://t.me/asmrprog_admin">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=ffffff" />
@@ -111,5 +110,4 @@ Fullstack-разработчик с страстью к созданию эле�
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="30%">
   <br>
-  <sub>✨ минимализм • эстетика • код ✨</sub>
 </div>
