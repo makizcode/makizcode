@@ -1,19 +1,3 @@
-<div align="center">
-  
-  <img src="https://via.placeholder.com/180/333333/666666?text=МК" width="180" height="180" style="border-radius: 50%; border: 3px solid #555; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="Максим Касимов">
-  
-  <br>
-  
-
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Максим+Касимов;Fullstack+Разработчик" alt="Typing SVG" />
-  </h1>
-  
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="30%">
-  
-</div>
-
 # Обо мне
 
 Fullstack-разработчик с страстью к созданию элегантных веб-приложений.  
@@ -58,8 +42,8 @@ Fullstack-разработчик с страстью к созданию эле�
 
 <!-- Статистика GitHub в серых тонах -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&ring_color=888888" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makizcode&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&ring_color=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makizcode&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888" width="48%" />
 </div>
 
 <br>
