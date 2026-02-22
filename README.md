@@ -23,18 +23,18 @@
   
   <!-- Стилизованная змейка (вторая игра) - анимированная -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/ТВОЙ_ЛОГИН/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/ТВОЙ_ЛОГИН/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/ТВОЙ_ЛОГИН/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//makizcode//makizcode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//makizcode//makizcode/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//makizcode//makizcode/output/github-contribution-grid-snake.svg" />
   </picture>
   
   <br>
   <br>
   
   <!-- Контакты в серых бейджах -->
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:твой@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/твой_профиль"><img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me//makizava"><img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:/makizcode@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in//makizcode"><img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <br>
   <br>
