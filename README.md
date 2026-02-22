@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="assets/your-photo.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #555; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="Reza Mehdikhanlou">
+  <img src="https://via.placeholder.com/180/333333/666666?text=МК" width="180" height="180" style="border-radius: 50%; border: 3px solid #555; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="Максим Касимов">
   
   <br>
   
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Maxim+Kasimov;Fullstack+Разработчик;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Максим+Касимов;Fullstack+Разработчик" alt="Typing SVG" />
   </h1>
   
 
@@ -17,7 +17,7 @@
 # Обо мне
 
 Fullstack-разработчик с страстью к созданию элегантных веб-приложений.  
-На своем <a href="https://youtube.com/@makizcode" target="_blank">YouTube-канале</a> я делюсь знаниями и помогаю другим освоить современную веб-разработку.
+Делюсь знаниями и помогаю другим освоить современную веб-разработку.
 
 <div align="center">
   
@@ -64,8 +64,8 @@ Fullstack-разработчик с страстью к созданию эле�
 
 <!-- Статистика GitHub в серых тонах -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmrprog-yt&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&ring_color=888888" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmrprog-yt&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&ring_color=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888" width="48%" />
 </div>
 
 <br>
@@ -82,17 +82,14 @@ Fullstack-разработчик с страстью к созданию эле�
   
   ### Связаться со мной
   
-  <a href="https://t.me/asmrprog_admin">
+  <a href="https://t.me/your_telegram">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=ffffff" />
   </a>
-  <a href="mailto:mehdikhanloo90@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
-  <a href="https://github.com/asmrprog-yt">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://youtube.com/@AsmrProg">
-    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube&logoColor=ffffff" />
   </a>
   
 </div>
@@ -101,9 +98,9 @@ Fullstack-разработчик с страстью к созданию эле�
 
 <!-- Змейка (тоже серая в темной теме) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
 </picture>
 
 <!-- Нижний колонтитул -->
