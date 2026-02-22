@@ -6,7 +6,7 @@
   
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Reza+Mehdikhanlou;Fullstack+Developer;Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Maxim+Kasimov;Fullstack+Разработчик" alt="Typing SVG" />
   </h1>
   
 
@@ -17,7 +17,7 @@
 # Обо мне
 
 Fullstack-разработчик с страстью к созданию элегантных веб-приложений.  
-На своем <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube-канале</a> я делюсь знаниями и помогаю другим освоить современную веб-разработку.
+На своем <a href="https://youtube.com/@makizcode" target="_blank">YouTube-канале</a> я делюсь знаниями и помогаю другим освоить современную веб-разработку.
 
 <div align="center">
   
