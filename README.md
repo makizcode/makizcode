@@ -6,7 +6,7 @@
   
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Maxim+Kasimov;Fullstack+Разработчик" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Maxim+Kasimov;Fullstack+Разработчик;" alt="Typing SVG" />
   </h1>
   
 
